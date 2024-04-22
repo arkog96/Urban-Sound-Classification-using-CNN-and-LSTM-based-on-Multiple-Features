@@ -30,3 +30,17 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 
 **<p align="center">Figure 1: Different spectral features extracted from audio clip.</p>**
 
+## Data Augmentation
+
+Three distinct data augmentation techniques were employed, resulting in an expansion of the original 8732 audio files from the UrbanSound8K dataset to a total of 78588 labeled audio clips.
+
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Pitch%20Shift.PNG" width="450" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch.PNG" width="450" />
+</p>
+
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch%20and%20Pitch%20Shift.PNG" width="450" />
+</p>
+
+**<p align="center">Figure 2: Audio signals after applying different augmentation techniques.</p>**
