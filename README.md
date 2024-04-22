@@ -6,3 +6,5 @@ There are many sounds all around us and our brain can easily and clearly identif
 ## Dataset
 UrbanSound8k, a popular dataset for urban sound classification, consists of 8732 labeled sound clips from 10 different classes.
 * Available at: https://urbansounddataset.weebly.com/urbansound8k.html
+
+## Extracted Features from Audio Files
