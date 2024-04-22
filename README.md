@@ -66,7 +66,7 @@ In case of any enquiry, question or collaboration opportunities, kindly reach ou
 ## Citation
 
 If you find the resources within this repository helpful, kindly cite this using: 
-
+```
 @inproceedings{das2020urban,
   title={Urban sound classification using convolutional neural network and long short term memory based on multiple features},
   author={Das, Joy Krishan and Ghosh, Arka and Pal, Abhijit Kumar and Dutta, Sumit and Chakrabarty, Amitabha},
@@ -75,6 +75,6 @@ If you find the resources within this repository helpful, kindly cite this using
   year={2020},
   organization={IEEE}
 }
-
+```
 
 
