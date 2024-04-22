@@ -8,3 +8,9 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 * Available at: https://urbansounddataset.weebly.com/urbansound8k.html
 
 ## Extracted Features from Audio Files
+
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/MFCC.PNG" width="200" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Mel-Spectrogram.PNG" width="200" />
+</p>
+
