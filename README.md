@@ -26,5 +26,6 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 
 <p align="center">
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Tonnetz.PNG" width="450" />
-</p>p
+</p>
+**<p align="center">Figure 1: Different spectral features extracted from audio clip.</p>**
 
