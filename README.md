@@ -50,6 +50,15 @@ Three distinct data augmentation techniques were employed, resulting in an expan
 
 **<p align="center">Figure 3: Performance comparison of CNN and LSTM using different spectral features with/without Data Augmentation.</p>**
 
+## System Requirements 
+* Python 3+
+* [LibROSA](https://librosa.org/doc/latest/index.html)
+* [FFmpeg](https://pypi.org/project/ffmpeg-python/)
+* [Tensorflow](https://pypi.org/project/tensorflow/)
+* [Keras](https://pypi.org/project/keras/)
+* [Scikit-learn](https://scikit-learn.org/)
+  
+
 
 
 
