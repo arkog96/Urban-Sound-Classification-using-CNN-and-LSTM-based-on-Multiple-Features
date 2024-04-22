@@ -14,3 +14,17 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Mel-Spectrogram.PNG" width="450" />
 </p>
 
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_STFT.PNG" width="450" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_CQT.PNG" width="450" />
+</p>
+
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_Cens.PNG" width="450" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Spectral.PNG" width="450" />
+</p>
+
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Tonnetz.PNG" width="450" />
+</p>p
+
