@@ -1,4 +1,4 @@
-This respiratory contains the code of the implementation of the paper entitled "[Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features](https://ieeexplore.ieee.org/document/9268723/)" published in **2020 Fourth International Conference On Intelligent Computing in Data Sciences (ICDS)**.
+This repository contains the code of the implementation of the paper entitled "[Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features](https://ieeexplore.ieee.org/document/9268723/)" published in **2020 Fourth International Conference On Intelligent Computing in Data Sciences (ICDS)**.
 
 ## Abstract of the Paper
 There are many sounds all around us and our brain can easily and clearly identify them. Furthermore, our brain processes the received sound signals continuously and provides us with relevant environmental knowledge. Although not up to the level of accuracy of the brain, there are some smart devices which can extract necessary information from an audio signal with the help of different algorithms. Over the years several models like the Convolutional Neural Network (CNN), Artificial Neural Network (ANN), Region-Convolutional Neural Network (R-CNN) and many machine learning techniques have been adopted to classify sound accurately and these have shown promising results in the recent years in distinguishing spectra-temporal pictures and different sound classes. The novelty of our research lies in showing that the long-short term memory (LSTM) shows a better result in classification accuracy compared to CNN for many features used. Moreover, we have tested the accuracy of the models based on different techniques such as augmentation and stacking of different spectral-features. In such a way it was possible with our LSTM model, to reach an accuracy of 98.81%, which is state-of-the-art performance on the UrbanSound8k dataset.
@@ -58,7 +58,23 @@ Three distinct data augmentation techniques were employed, resulting in an expan
 * [Keras](https://pypi.org/project/keras/)
 * [Scikit-learn](https://scikit-learn.org/)
   
+## Contact Information
+In case of any enquiry, question or collaboration opportunities, kindly reach out to me at:
+* Email: [arko.g96@gmail.com](mailto:arko.g96@gmail.com)
+* LinkedIn: [Arka Ghosh](https://www.linkedin.com/in/llarkaghoshll/)
 
+## Citation
+
+If you find the resources within this repository helpful, kindly cite this using: 
+
+@inproceedings{das2020urban,
+  title={Urban sound classification using convolutional neural network and long short term memory based on multiple features},
+  author={Das, Joy Krishan and Ghosh, Arka and Pal, Abhijit Kumar and Dutta, Sumit and Chakrabarty, Amitabha},
+  booktitle={2020 Fourth International Conference On Intelligent Computing in Data Sciences (ICDS)},
+  pages={1--9},
+  year={2020},
+  organization={IEEE}
+}
 
 
 
