@@ -9,22 +9,22 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 
 ## Extracted Features from Audio Files
 
-<p float="center">
+<p align="center">
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/MFCC.PNG" width="400" />
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Mel-Spectrogram.PNG" width="400" />
 </p>
 
-<p float="center">
+<p align="center">
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_STFT.PNG" width="400" />
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_CQT.PNG" width="400" />
 </p>
 
-<p float="center">
+<p align="center">
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Chroma_Cens.PNG" width="400" />
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Spectral.PNG" width="400" />
 </p>
 
-<p float="center">
+<p align="center">
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Tonnetz.PNG" width="400" />
 </p>
 
@@ -34,12 +34,12 @@ UrbanSound8k, a popular dataset for urban sound classification, consists of 8732
 Three distinct data augmentation techniques were employed, resulting in an expansion of the original 8732 audio files from the UrbanSound8K dataset to a total of 78588 labeled audio clips.
 
 <p align="center">
-<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Pitch%20Shift.PNG" width="450" />
-<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch.PNG" width="450" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Pitch%20Shift.PNG" width="400" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch.PNG" width="400" />
 </p>
 
 <p align="center">
-<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch%20and%20Pitch%20Shift.PNG" width="450" />
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch%20and%20Pitch%20Shift.PNG" width="400" />
 </p>
 
 **<p align="center">Figure 2: Audio signals after applying different augmentation techniques.</p>**
