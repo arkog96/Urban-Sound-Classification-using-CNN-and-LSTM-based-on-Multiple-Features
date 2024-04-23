@@ -39,6 +39,10 @@ Three distinct data augmentation techniques were employed, resulting in an expan
 <img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch.PNG" width="400" />
 </p>
 
+<p align="center">
+<img src="https://github.com/arkog96/Urban-Sound-Classification-using-CNN-and-LSTM-based-on-Multiple-Features/blob/main/figures/Time%20Stretch%20and%20Pitch%20Shift.PNG" width="400" />
+</p>
+
 **<p align="center">Figure 2: Audio signals after applying different augmentation techniques.</p>**
 
 ## Performance Evaluation 
