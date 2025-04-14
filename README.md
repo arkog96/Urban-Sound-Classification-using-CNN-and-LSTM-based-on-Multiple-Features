@@ -70,7 +70,6 @@ In case of any enquiry, question or collaboration opportunities, kindly reach ou
 ## Citation
 
 If you find the resources within this repository helpful, kindly cite this using: 
-A. Ghosh and Q. Ye, "ME-IDS: An Ensemble Transfer Learning Framework Based on Misclassified Samples for Intrusion Detection Systems," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 2383-2388, doi: 10.1109/GLOBECOM52923.2024.10901168.
 ```
 @inproceedings{das2020urban,
   title={Urban sound classification using convolutional neural network and long short term memory based on multiple features},
